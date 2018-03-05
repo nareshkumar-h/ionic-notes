@@ -28,3 +28,19 @@
     this.navCtrl.push(AboutPage,  {'course':course } );
   }
   ```
+  
+  
+  #### Task 4: Pass params to next page (i.e "About" Page )
+  ```
+  import { NavController,NavParams  } from 'ionic-angular';
+  
+ ...
+  course:Object;
+
+  constructor(public navCtrl: NavController, params: NavParams ) {
+
+    this.course = params.data.course;
+    console.log(this.course);
+  }
+
+```
