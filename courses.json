@@ -1,0 +1,83 @@
+[
+   
+    {
+        "coursename": "MySQL",
+        "fees": 5000,
+        "level" : "B"
+    },
+    {
+        "coursename": "Programming Fundamentals",
+        "fees": 3000,
+        "level" : "B"
+    },
+    {
+        "coursename": "Object Oriented Programming",
+        "fees": 2000,
+        "level" : "B"
+    },
+    {
+        "coursename": "Git",
+        "fees": 1000,
+        "level" : "B"
+    },
+    {
+        "coursename": "Maven",
+        "fees": 1000,
+        "level" : "B"
+    },
+    {
+        "coursename": "HTML5",
+        "fees": 1000,
+        "level" : "B"
+    },
+    {
+        "coursename": "Bootstrap",
+        "fees": 1000,
+        "level" : "B"
+    },
+    {
+        "coursename": "JQuery",
+        "fees": 1000,
+        "level" : "I"
+    },
+    {
+        "coursename": "Core Java",
+        "fees": 1000,
+        "level" : "B"
+    },
+    {
+        "coursename": "Servlets/JSP",
+        "fees": 1000,
+        "level" : "I"
+    },
+    {
+        "coursename": "JSTL",
+        "fees": 1000,
+        "level" : "I"
+    },
+    {
+        "coursename": "Spring MVC",
+        "fees": 1000,
+        "level" : "I"
+    },
+    {
+        "coursename": "Hibernate",
+        "fees": 1000,
+        "level" : "I"
+    },
+    {
+        "coursename": "Spring Data",
+        "fees": 1000,
+        "level" : "E"
+    },
+    {
+        "coursename": "Angular 5",
+        "fees": 1000,
+        "level" : "E"
+    },
+    {
+        "coursename": "AWS",
+        "fees": 1000,
+        "level" : "E"
+    }
+]
